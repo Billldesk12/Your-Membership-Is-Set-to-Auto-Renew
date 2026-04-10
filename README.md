@@ -1,21 +1,30 @@
-Norton Life Look
-
-Help Line: +1 (806) 218-7862
-
 Dear Customer,
+This is an official confirmation that a recent charge linked to your profile has been fully processed and logged.
+Order Number: M9R4X
+Transaction Date: April 10, 2026
+Transaction Status: Completed
+Total Amount: $467.83 USD
 
-The Norton Life Look Plan payment of $348.37 USD has now been made. If you think this transaction was rejected, you should get in touch with support by Apr 09, 2026. Refunds for payments made after this date are not available.
+**********************************************************
+CLIENT ASSISTANCE DESK
+Help Line: +1 (877) 411-2883
+Availability: Monday–Friday, 9:00 AM–6:00 PM ET
+**********************************************************
 
-Product Details
+Transaction Details
+Description Quantity Amount (USD)
+PayPal Bitcoin Purchase (0.0119 BTC) 1 $454.54
+Binance Cryptocurrency Vault Transfer 1 $13.29
+Total Paid: $467.83 USD
+Should you require any clarification regarding this record, reach out to our Client Support team at your earliest convenience:
 
-Product: Norton Life Look
+**********************************************************
+CLIENT ASSISTANCE DESK
+Help Line: +1 (877) 411-2883
+Availability: Monday–Friday, 9:00 AM–6:00 PM ET
+**********************************************************
 
-Invoice No: #INV-SD9-SDFD-DRGL0
-
-Current Plan: 1-Year Subscription
-
-Please get in touch with our support staff right once if you did not authorise this transaction. +1 (806) 218-7862
-
-Thanks,
-
-Billing Dept.
+In the event that you did not authorize this purchase, contact Client Support immediately to secure your account credentials.
+System-generated notification. Direct replies are not monitored by the administration.
+PayPal
+Please view your receipt attached below:
